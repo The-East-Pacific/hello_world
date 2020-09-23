@@ -6,6 +6,7 @@ You may have noticed that it doesn't seem like there are that many files in here
 * NationStates telegram to [Evrigenis](https://www.nationstates.net/nation=evrigenis#composebutton)
 * [Discord](https://discord.com/) DM to y0#5738 
 * [TEP Forum PM to borromeanWhyKnot](https://forum.theeastpacific.com/memberlist.php?mode=viewprofile&u=4081)
+
 It is preferred, but not required for you to verify yourself in multiple ways.
 
 ## Welcome to Git
