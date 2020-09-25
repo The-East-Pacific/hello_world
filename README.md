@@ -6,6 +6,8 @@ You may have noticed that it doesn't seem like there are that many files in here
 * NationStates telegram to [Evrigenis](https://www.nationstates.net/nation=evrigenis#composebutton)
 * [Discord](https://discord.com/) DM to y0#5738 
 * [TEP Forum PM to borromeanWhyKnot](https://forum.theeastpacific.com/memberlist.php?mode=viewprofile&u=4081)
+* Fill out this [Google Form](https://docs.google.com/forms/d/1BGrKqRu51YLymoi0cgVn7DALdNmN79FsHs7T2HNJgRE/prefill)
+* Email borromeanWhyKnot@gmail.com with the same email as your GitHub account and a subject line "Account Verification for [NS MAIN NATION HERE]".
 
 If you are a citizen ([you can apply here](https://tep.li/citizenship)) you MAY verify account in multiple ways, but only one way is REQUIRED. If you are not a citizen, you MUST verify yourself in multiple ways.
 
