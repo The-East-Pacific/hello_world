@@ -17,6 +17,8 @@ If you're new to programming, welcome to Git! The [GitBook](https://git-scm.com/
 ## Welcome to GitHub
 If you're new to this site, welcome to GitHub! It is highly RECOMMENDED to read [the GitHub Docs](https://docs.github.com/en/github/getting-started-with-github). The GitBook's [Chapter 6: GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) MAY also be helpful.
 
+It is RECOMMENDED to set your profile picture. You can also OPTIONALLY set up 2-Factor Authentication.
+
 ## Disclaimer
 MoVE's department of Information Technology (IT) is the TEP organization in charge of creating the content for this GH org, but all copyright belongs to [The East Pacific Community Corporation (TEPCC)](https://nonprofit.tep.li/home). Contributing content to this GH org is equivalent to donating intellectual property to TEPCC, which then makes it available to you under [a custom license](https://www.github.com/The-East-Pacific/hello_world/blob/master/LICENSE.md). The License is most similar to the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). In non legalese, you are allowed to adapt, remix, transform, and build upon the material for any purpose — even commercially — under the following terms:
 1. Attribution. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
