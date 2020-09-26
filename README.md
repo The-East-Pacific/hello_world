@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/The-East-Pacific/hello_world/main/octepcat.png" alt="Octepcat, TEP's GitHub Mascot"
+	title="Octepcat" width="400" height="400"/>
+</p>
+
 # hello_world
 An intro for TEPers to become familiar with Git and GitHub
 
